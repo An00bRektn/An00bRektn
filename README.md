@@ -1,16 +1,13 @@
-### Hi there 👋
-
+### Hello! 👋
+<p align="center">
+    <img src = ./wizzyboy.jpg>
+</p>
+# About me
+- Currently a CS student focused on security and software engineering
+- I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child) and less good
+- Trying to learn new things one step at a time
+- How to reach me: learnbetterplease@gmail.com
+- Fun fact: I actually am a wizard toad someone send help
 <!--
 **An00bRektn/An00bRektn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
