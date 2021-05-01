@@ -8,7 +8,7 @@
 - Fun fact: I actually am a wizard toad someone send help
 
 <p align="center">
-    <img src = ./wizzyboy.jpg>
+    <img src = "./wizzyboy.jpg" width="75px">
 </p>
 <!--
 **An00bRektn/An00bRektn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
