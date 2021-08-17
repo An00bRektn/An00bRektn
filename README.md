@@ -3,7 +3,7 @@
 ### About me
 - Currently a CS student focused on security and software engineering
 - I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
-- Find me on [TryHackMe](https://tryhackme.com/p/An00bRektn), [Hack The Box](app.hackthebox.eu/users/483018), and my [blog](an00brektn.github.io)
+- Find me on [TryHackMe](https://tryhackme.com/p/An00bRektn), [Hack The Box](https://app.hackthebox.eu/users/483018), and my [blog](https://an00brektn.github.io)
 - How to reach me: rsyed.buisness404@gmail.com
 - Fun fact: I actually am a wizard toad someone send help
 
