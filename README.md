@@ -7,7 +7,7 @@
 - How to reach me: rsyed.buisness404@gmail.com
 - Fun fact: I actually am a wizard toad someone send help
 
-**Last Found:** Working on Network Analysis research (not yet public) and doing TCM's PEH
+**Last Found:** Doing student things, the learning thing, you know how it goes (and private projects on the side, *obviously*)
 
 <p align="center">
     <img src = "./wizzyboy.jpg" width="75px">
