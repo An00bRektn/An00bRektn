@@ -1,17 +1,31 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%">
 
-### About me
-- Currently a CS student focused on security and software engineering
-- I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
-- Find me on [TryHackMe](https://tryhackme.com/p/An00bRektn), [Hack The Box](https://app.hackthebox.eu/users/483018), and my [blog](https://an00brektn.github.io)
-- How to reach me: rsyed.business404@gmail.com
-- Fun fact: I actually am a wizard toad someone send help
+### whoami
+- Currently majoring in Computer Science and Math at [[UNIVERSITY]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- Wannabe red teamer, actual wizard toad
+- CTF Addict <sub>[no](https://tryhackme.com/p/An00bRektn) [seriously](https://app.hackthebox.eu/users/483018) [someone](https://www.cryptohack.org/user/An00bRektn/) [help](https://ctftime.org/user/117900)</sub>
 
-**Last Found:** Doing student things, the learning thing, you know how it goes (and private projects on the side, *obviously*)
+### Links
+- 🖊️ [i write stuff about computers](https://an00brektn.github.io/)
+- 🐦 [haha toxic bird site](https://twitter.com/An00bRektn)
+- 📧 [Contact me (for important things!)](mail-to:rsyed.business404@gmail.com)
+
+### Projects
+- 🚩 I made a local [CTF event](https://github.com/An00bRektn/flyer-ctf) - it went well
+- 💻 I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
+- 👾 I analyze malware, and when I feel especially bored, I write [full reports](https://github.com/An00bRektn/malware-analysis-reports)
+
+### Blog Posts
+- 💀 [Playing with Pwnkit: CVE-2021-4034](https://an00brektn.github.io/pwnkit/)
+- 🏆 [How I Accidentally Made a CTF and Why You Should Too](https://an00brektn.github.io/so-i-made-a-ctf/)
+- 💾 [Many, many writeups (this one is not a title)](https://an00brektn.github.io/tags/)
+
+**Last Found:** Summer internship and trying to study everything all at once :^)
 
 <p align="center">
     <img src = "./wizzyboy.jpg" width="75px">
 </p>
 <!--
 **An00bRektn/An00bRektn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also do drum stuff but that felt weird and out of place to include so I'll throw it here idk you don't know me stop being parasocial about it wait no stop googling me pls dont no need to osint we're all cool here i'm chill you're chill let's just vibe
 -->
