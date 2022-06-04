@@ -1,4 +1,4 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%">
+# Hello! o7 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%"> -->
 
 ### whoami
 - Currently majoring in Computer Science and Math at [[UNIVERSITY]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -6,19 +6,14 @@
 - CTF Addict <sub>[no](https://tryhackme.com/p/An00bRektn) [seriously](https://app.hackthebox.eu/users/483018) [someone](https://www.cryptohack.org/user/An00bRektn/) [help](https://ctftime.org/user/117900)</sub>
 
 ### Links
-- 🖊️ [i write stuff about computers](https://an00brektn.github.io/)
+- 🖊️ [i write stuff about computers and challenges sometimes](https://an00brektn.github.io/)
 - 🐦 [haha toxic bird site](https://twitter.com/An00bRektn)
-- 📧 [Contact me (for important things!)](mail-to:rsyed.business404@gmail.com)
+- 📧 Contact me (for important things)! - rsyed.business404@gmail.com
 
 ### Projects
 - 🚩 I made a local [CTF event](https://github.com/An00bRektn/flyer-ctf) - it went well
 - 💻 I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
 - 👾 I analyze malware, and when I feel especially bored, I write [full reports](https://github.com/An00bRektn/malware-analysis-reports)
-
-### Blog Posts
-- 💀 [Playing with Pwnkit: CVE-2021-4034](https://an00brektn.github.io/pwnkit/)
-- 🏆 [How I Accidentally Made a CTF and Why You Should Too](https://an00brektn.github.io/so-i-made-a-ctf/)
-- 💾 [Many, many writeups (this one is not a title)](https://an00brektn.github.io/tags/)
 
 **Last Found:** Summer internship and trying to study everything all at once :^)
 
