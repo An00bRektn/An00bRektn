@@ -1,14 +1,15 @@
-# Hello! o7 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%"> -->
+ <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%"> -->
+<div align=center>
+
+# Hello! o7
+## [🖊️](https://an00brektn.github.io/) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:rsyed.business404@gmail.com)
+
+</div>
 
 ### whoami
 - Currently majoring in Computer Science and Math at [[UNIVERSITY]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - Wannabe red teamer, actual wizard toad
 - CTF Addict <sub>[no](https://tryhackme.com/p/An00bRektn) [seriously](https://app.hackthebox.eu/users/483018) [someone](https://www.cryptohack.org/user/An00bRektn/) [help](https://ctftime.org/user/117900)</sub>
-
-### Links
-- 🖊️ [i write stuff about computers and challenges sometimes](https://an00brektn.github.io/)
-- 🐦 [haha toxic bird site](https://twitter.com/An00bRektn)
-- 📧 Contact me (for important things)! - rsyed.business404@gmail.com
 
 ### Projects
 - 🚩 I made a local [CTF event](https://github.com/An00bRektn/flyer-ctf) - it went well
