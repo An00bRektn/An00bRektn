@@ -2,7 +2,7 @@
 <div align=center>
 
 # Hello! o7
-## [🖊️](https://an00brektn.github.io/) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:rsyed.business404@gmail.com)
+### [🖊️](https://an00brektn.github.io/) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:rsyed.business404@gmail.com)
 
 </div>
 
@@ -15,12 +15,13 @@
 - 🚩 I made a local [CTF event](https://github.com/An00bRektn/flyer-ctf) - it went well
 - 💻 I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
 - 👾 I analyze malware, and when I feel especially bored, I write [full reports](https://github.com/An00bRektn/malware-analysis-reports)
+- 📜 I write sometimes - mostly for myself but [there's](https://an00brektn.github.io/pwnkit/) [stuff](https://an00brektn.github.io/so-i-made-a-ctf/) [there](https://an00brektn.github.io/tags/)
 
 **Last Found:** Summer internship and trying to study everything all at once :^)
 
-<p align="center">
+<div align="center">
     <img src = "./wizzyboy.jpg" width="75px">
-</p>
+</div>
 <!--
 **An00bRektn/An00bRektn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I also do drum stuff but that felt weird and out of place to include so I'll throw it here idk you don't know me stop being parasocial about it wait no stop googling me pls dont no need to osint we're all cool here i'm chill you're chill let's just vibe
