@@ -15,9 +15,9 @@
 - 🚩 I made a local [CTF event](https://github.com/An00bRektn/flyer-ctf) - it went well
 - 💻 I photoshopped the "John the Ripper" logo into something [much funnier](https://github.com/An00bRektn/john-the-child)
 - 👾 I analyze malware, and when I feel especially bored, I write [full reports](https://github.com/An00bRektn/malware-analysis-reports)
-- 📜 I write sometimes - mostly for myself but [there's](https://an00brektn.github.io/pwnkit/) [stuff](https://an00brektn.github.io/so-i-made-a-ctf/) [there](https://an00brektn.github.io/tags/)
+- 📜 I write sometimes - mostly for myself but [there's](https://notateamserver.xyz/sliver-101/) [stuff](https://notateamserver.xyz/docker-101/) [there](https://an00brektn.github.io/tags/)
 
-**Last Found:** Summer internship and trying to study everything all at once :^)
+**Last Found:** stuck with more school work :(
 
 <div align="center">
     <img src = "./wizzyboy.jpg" width="75px">
