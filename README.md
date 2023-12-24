@@ -1,15 +1,15 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:2%;height:2%"> -->
-<div align=center>
 
-# Hello! o7
-### [🖊️](https://an00brektn.github.io/) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:An00bRektn@proton.me)
-
+<div align="center">
+  <h1> hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+ 
+ ### [🖊️](https://an00brektn.github.io/) | [🐘](https://infosec.town/@An00bRektn) | [🐦](https://twitter.com/An00bRektn) | [📧](mailto:An00bRektn@proton.me)
 </div>
 
 ### whoami
-- Currently majoring in Computer Science and Math at [[UNIVERSITY]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- Wannabe red teamer, actual wizard toad
-- CTF Addict <sub>[no](https://tryhackme.com/p/An00bRektn) [seriously](https://app.hackthebox.eu/users/483018) [someone](https://www.cryptohack.org/user/An00bRektn/) [help](https://ctftime.org/user/117900)</sub>
+- graduated in computer science and math, still trying to figure stuff out though 
+- wannabe red teamer, actual wizard toad
+- ctf addict <sub>[no](https://tryhackme.com/p/An00bRektn) [seriously](https://app.hackthebox.eu/users/483018) [someone](https://www.cryptohack.org/user/An00bRektn/) [help](https://ctftime.org/user/117900)</sub>
 
 ### Projects
 - 💻 I photoshopped the Golang gopher into something [much funnier](https://github.com/An00bRektn/gopher47)
@@ -17,7 +17,7 @@
 - 👾 I analyze malware, and when I feel especially bored, I write [full reports](https://github.com/An00bRektn/malware-analysis-reports)
 - 📜 I write sometimes - mostly for myself but [there's](https://notateamserver.xyz/sliver-101/) [stuff](https://notateamserver.xyz/docker-101/) [there](https://an00brektn.github.io/tags/)
 
-**Last Found:** doing the thing. mostly school. but also the thing.
+**Last Found:** grind for certs. secret project. doing the thing.
 
 <div align="center">
     <img src = "./wizzyboy.jpg" width="75px">
